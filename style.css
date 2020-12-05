@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Navigation bar */
+#navbar{
+    display: flex;
+}
+
+#logo img{
+    margin: 4px;
+    height: 98px;
+}
+#logo{
+    margin: 27px;
+}
+
+#navbar ul{
+    display: flex;
+}
+
+#navbar ul li{
+    list-style: none;
+    font-size: 1em;
+}
